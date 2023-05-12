@@ -1,0 +1,11 @@
+{
+    "description": "A personal website,for springboot",
+    "repo": "https://github.com/dbillion/EventsGatherApp.github.io",
+    "owner": {
+        "username": "dbillion",
+        "email": dayozoe@gmail.com
+    },
+    "record": {
+        "CNAME": "dbillion.github.io"
+    }
+}
